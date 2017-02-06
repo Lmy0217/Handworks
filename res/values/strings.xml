@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Handworks</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="no_camera">No Camera</string>
+
+</resources>
